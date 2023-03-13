@@ -204,6 +204,18 @@ nav a {
 nav {
     border-top: 1px solid #282828;
     border-bottom: 1px solid #282828;
+    padding-left: 0;
+    margin-top: 0.25rem;
+}
+
+nav a:focus, nav a:hover {
+    color: #fff;
+    background-color: #33658A;
+}
+
+nav a:active {
+    color: #fff;
+    background-color: #000;
 }
 
 button {
