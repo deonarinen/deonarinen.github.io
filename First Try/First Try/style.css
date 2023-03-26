@@ -1,0 +1,32 @@
+header {
+    border-bottom: .0625rem solid #333;
+    margin-bottom:4rem;
+    padding-bottom:2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 'Franklin Gothic Medium';
+    font-size: 4.5rem;
+    color: rgb(91, 40, 54);
+}
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    font: 'Times New Roman';
+    font-size: 2rem;
+}
+
+figure {
+    width:60%;
+    margin:0 10% 0 0;
+    float: center;
+}
+
+figure img {
+    width:100%;
+    max-width:25rem;
+}
+
+figcaption {
+    font-size: 1rem;
+    margin:.375rem 0;
+}
